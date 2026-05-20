@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+Create a highly professional, modern, visually attractive, recruiter-focused GitHub Profile README for a Software Engineer and Founder.<br><br>Profile Details:<br>- Name: Mahendra<br>- Username: Mahendra0115<br>- Location: India<br>- Role: Backend Developer | Software Engineer | Founder | AI Learner | UPSC Aspirant<br>- Focus Areas:<br>  - Backend Development<br>  - Spring Boot<br>  - Java<br>  - REST APIs<br>  - System Design<br>  - AI Integration<br>  - Automation<br>  - Scalable Architecture<br>  - SaaS Platforms<br>  - Organization Management Systems<br><br>Professional Identity:<br>Mahendra is a Software Engineer and Founder managing an IT software organization. He builds scalable backend systems, enterprise APIs, authentication systems, AI-powered applications, and organization management platforms. He is also actively learning AI/ML integration and preparing for UPSC Civil Services Examination 2027.<br><br>Projects to Highlight:<br>- DRISHTI (AI-based Smart Vehicle Intelligence System)<br>- RAG-based AI Chatbot using Spring AI + Ollama/OpenAI<br>- Organization Management System<br>- CRM & HR Management Portal<br>- Auth-Service using Spring Security + JWT + Refresh Token<br>- Medical Facility Platform Backend<br>- Enterprise User Management Systems<br><br>Tech Stack:<br>Backend:<br>- Java<br>- Spring Boot<br>- Spring Security<br>- JWT Authentication<br>- REST APIs<br>- Hibernate/JPA<br>- MySQL<br>- PostgreSQL<br>- Microservices<br><br>DevOps & Tools:<br>- Git<br>- GitHub<br>- Docker<br>- Postman<br>- Maven<br>- Linux<br><br>AI & Automation:<br>- OpenAI APIs<br>- Ollama<br>- Spring AI<br>- RAG Architecture<br>- AI Chatbots<br>- n8n Automation<br><br>Frontend Knowledge:<br>- React.js<br>- HTML<br>- CSS<br>- JavaScript<br><br>README Requirements:<br>1. Create a premium and modern GitHub profile design.<br>2. Add animated typing header.<br>3. Add professional introduction section.<br>4. Add founder + engineer branding.<br>5. Add modern skill badges.<br>6. Add GitHub stats cards.<br>7. Add streak stats.<br>8. Add contribution graph.<br>9. Add top languages section.<br>10. Add featured projects section with icons.<br>11. Add AI/Backend/System Design themed aesthetic.<br>12. Add professional developer workflow section.<br>13. Add current learning section.<br>14. Add roadmap/future goals section.<br>15. Add connect/social links placeholders.<br>16. Add clean dark-theme compatible layout.<br>17. Use advanced markdown styling.<br>18. Keep it recruiter-friendly and visually impressive.<br>19. Avoid unnecessary emojis spam.<br>20. Make it look like a senior backend engineer + tech founder profile.<br><br>Style:<br>- Modern<br>- Minimal<br>- Professional<br>- Tech Founder Vibe<br>- AI Engineer Branding<br>- Enterprise Developer Portfolio Style<br><br>Generate complete ready-to-use README.md code.
 
-<!--
-**Mahendra0115/Mahendra0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahendra Singh ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahendra0115) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendra910614@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mahendra0115&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mahendra0115&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahendra0115&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mahendra0115&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mahendra0115&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Mahendra0115&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
