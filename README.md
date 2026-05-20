@@ -1,6 +1,13 @@
 # 💫 About Me:
-Create a highly professional, modern, visually attractive, recruiter-focused GitHub Profile README for a Software Engineer and Founder.<br><br>Profile Details:<br>- Name: Mahendra<br>- Username: Mahendra0115<br>- Location: India<br>- .
+👨‍💻 Software Engineer & Backend Developer  
+🤖 AI/ML Integration Learner  
+🏗️ Building Scalable Backend Systems & Enterprise Applications  
+🔐 Specialized in Spring Boot, Spring Security & JWT Authentication  
+📡 Passionate about REST APIs, System Design & Automation  
+🧠 Exploring RAG Architecture, OpenAI APIs & AI Chatbots  
 
+🌱 Currently Learning Advanced AI Integration & Microservices Architecture  
+⚡ Focused on Clean Code, Scalable Architecture & Real-World Problem Solving  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahendra Singh ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mahendra0115) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendra910614@gmail.com) 
