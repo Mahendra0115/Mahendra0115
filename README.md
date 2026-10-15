@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java: Intermediate" /><br/>
       <img src="https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Boot: Advanced" /><br/>
       <img src="https://img.shields.io/badge/Hibernate-Intermediate-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" alt="Hibernate: Intermediate" /><br/>
-      <img src="https://img.shields.io/badge/Microservices-Beginner-8957E5?style=for-the-badge" alt="Microservices: Beginner" /><br/>
+      <img src="https://img.shields.io/badge/Microservices-Advanced-8957E5?style=for-the-badge" alt="Microservices: Advanced" /><br/>
       <sub>Estimated levels · Backend development</sub>
     </td>
     <td width="330" valign="middle" bgcolor="#101820">
@@ -45,18 +45,58 @@
   </tr>
 </table>
 
-### Current Project: [kafka-learning](https://github.com/Mahendra0115/kafka-learning)
+## 🚀 Featured Project: [kafka-learning](https://github.com/Mahendra0115/kafka-learning)
 
-All 4 pull requests for this repository have been merged:
+<table>
+  <tr>
+    <td width="35%" valign="middle" bgcolor="#101820">
+      <h3>📨 Event-Driven Order Demo</h3>
+      <p>Java · Spring Boot · Apache Kafka</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java 21" /><br/>
+        <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Boot backend" /><br/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-Event_Streaming-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka event streaming" />
+      </p>
+      <a href="https://github.com/Mahendra0115/kafka-learning"><img src="https://img.shields.io/badge/4-merged_pull_requests-2DA44E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="4 merged pull requests" /></a>
+    </td>
+    <td valign="middle" bgcolor="#101820">
+      <h3>✅ Merged Pull Requests</h3>
+      <table>
+        <tr>
+          <td><a href="https://github.com/Mahendra0115/kafka-learning/pull/4"><strong>#4</strong> Partitions, keys &amp; consumer groups</a></td>
+          <td><img src="https://img.shields.io/badge/MERGED-2DA44E?style=flat-square" alt="Merged" /></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Mahendra0115/kafka-learning/pull/3"><strong>#3</strong> Kafka partitions &amp; message keys</a></td>
+          <td><img src="https://img.shields.io/badge/MERGED-2DA44E?style=flat-square" alt="Merged" /></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Mahendra0115/kafka-learning/pull/2"><strong>#2</strong> Kafka consumer groups</a></td>
+          <td><img src="https://img.shields.io/badge/MERGED-2DA44E?style=flat-square" alt="Merged" /></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Mahendra0115/kafka-learning/pull/1"><strong>#1</strong> JSON order event producer &amp; consumer</a></td>
+          <td><img src="https://img.shields.io/badge/MERGED-2DA44E?style=flat-square" alt="Merged" /></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- [#4 Add Kafka partitions, keys, and consumer groups demo](https://github.com/Mahendra0115/kafka-learning/pull/4)
-- [#3 Add Kafka partition and message key demo](https://github.com/Mahendra0115/kafka-learning/pull/3)
-- [#2 Add Kafka consumer groups demo](https://github.com/Mahendra0115/kafka-learning/pull/2)
-- [#1 Add JSON order event producer and consumer](https://github.com/Mahendra0115/kafka-learning/pull/1)
+### 📊 Activity Dashboard
 
-![](https://streak-stats.demolab.com/?user=Mahendra0115&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahendra0115&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<table>
+  <tr>
+    <td width="55%" align="center" valign="middle" bgcolor="#101820">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://streak-stats.demolab.com/?user=Mahendra0115&amp;theme=dark&amp;hide_border=true" width="520" alt="GitHub contribution streak" />
+    </td>
+    <td width="45%" align="center" valign="middle" bgcolor="#101820">
+      <h3>💻 Most Used Languages</h3>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahendra0115&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="420" alt="Most used programming languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahendra0115&theme=radical&no-frame=false&no-bg=true&margin-w=4)
