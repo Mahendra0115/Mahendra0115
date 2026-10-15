@@ -18,23 +18,32 @@
 
 <table>
   <tr>
-    <td width="230" align="center" valign="middle">
-      <img src="./assets/primary-stack.svg" width="200" alt="Java and Spring Boot primary stack" />
+    <td width="200" align="center" valign="middle" bgcolor="#101820">
+      <img src="./assets/primary-stack.svg" width="155" alt="Java and Spring Boot primary stack" />
     </td>
-    <td valign="middle">
-      <strong>Primary Skills (estimated)</strong><br/><br/>
-      <strong>Java</strong> — Intermediate<br/>
-      <strong>Spring Boot</strong> — Advanced<br/>
-      <strong>Hibernate</strong> — Intermediate<br/>
-      <strong>Microservices</strong> — Beginner
+    <td width="330" valign="middle" bgcolor="#101820">
+      <h3>⚡ Primary Skills</h3>
+      <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java: Intermediate" /><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Boot: Advanced" /><br/>
+      <img src="https://img.shields.io/badge/Hibernate-Intermediate-59666C?style=for-the-badge&amp;logo=hibernate&amp;logoColor=white" alt="Hibernate: Intermediate" /><br/>
+      <img src="https://img.shields.io/badge/Microservices-Beginner-8957E5?style=for-the-badge" alt="Microservices: Beginner" /><br/>
+      <sub>Estimated levels · Backend development</sub>
+    </td>
+    <td width="330" valign="middle" bgcolor="#101820">
+      <h3>📌 GitHub Snapshot</h3>
+      <img src="https://img.shields.io/badge/Public_Repositories-38-2F81F7?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="38 public repositories" /><br/>
+      <img src="https://img.shields.io/badge/Merged_Pull_Requests-32-8957E5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="32 merged pull requests" /><br/>
+      <a href="https://github.com/Mahendra0115/kafka-learning"><img src="https://img.shields.io/badge/kafka--learning-4_merged_PRs-F97316?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" alt="kafka-learning: 4 merged pull requests" /></a>
+    </td>
+    <td width="330" valign="middle" bgcolor="#101820">
+      <h3>🧭 Currently Exploring</h3>
+      <img src="https://img.shields.io/badge/AI_Integration-Learning-0A84FF?style=for-the-badge" alt="AI integration: learning" /><br/>
+      <img src="https://img.shields.io/badge/Microservices-Architecture-8957E5?style=for-the-badge" alt="Microservices architecture" /><br/>
+      <img src="https://img.shields.io/badge/System_Design-Backend-14A098?style=for-the-badge" alt="Backend system design" /><br/>
+      <sub>Building scalable backend applications</sub>
     </td>
   </tr>
 </table>
-
-| Profile detail | Current |
-|---|---:|
-| Public repositories | 38 |
-| Merged pull requests | 32 |
 
 ### Current Project: [kafka-learning](https://github.com/Mahendra0115/kafka-learning)
 
