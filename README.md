@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-## 🚀 Featured Project: [kafka-learning](https://github.com/Mahendra0115/kafka-learning)
+## 🚀 Featured Learning: [kafka-learning](https://github.com/Mahendra0115/kafka-learning)
 
 <table>
   <tr>
